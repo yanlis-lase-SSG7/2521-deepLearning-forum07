@@ -119,7 +119,7 @@ Jalankan cell EDA di notebook, atau jalankan ulang notebook dari awal untuk memp
 ## Output & Artifacts
 
 - **Notebook utama:** text classification & preprocessing pipeline
-- **EDA HTML report:** [EDA_Report_Text.html](EDA_Report_Text.html) (auto-generated, modern, bisa dibuka di browser)
+- **EDA HTML report:** [https://yanlis-lase-ssg7.github.io/2521-deepLearning-forum07/EDA_Report_Text.html](https://yanlis-lase-ssg7.github.io/2521-deepLearning-forum07/EDA_Report_Text.html) (auto-generated, modern, bisa dibuka di browser)
 - **Output scraping:** file CSV di `output_data/` (jika scraping dijalankan)
 - **Visualisasi:** sebelum-sesudah preprocessing, distribusi label, dsb.
 
