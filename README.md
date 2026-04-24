@@ -98,7 +98,7 @@ Buka dan jalankan:
 Jalankan notebook secara berurutan dari atas ke bawah untuk hasil yang konsisten.
 
 ### 7. Refresh EDA HTML Report
-Jalankan cell EDA di notebook, atau jalankan ulang notebook dari awal untuk memperbarui [https://yanlis-lase-ssg7.github.io/2521-deepLearning-forum07/EDA_Report_Text.html](EDA_Report_Text.html).
+Jalankan cell EDA di notebook, atau jalankan ulang notebook dari awal untuk memperbarui [EDA_Report_Text.html](https://yanlis-lase-ssg7.github.io/2521-deepLearning-forum07/EDA_Report_Text.html).
 
 ---
 
